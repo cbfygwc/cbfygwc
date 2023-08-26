@@ -1,4 +1,5 @@
-### Hi there 👋
+### computer graphics for money 
+### cyber security for love
 
 <!--
 **cbfygwc/cbfygwc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
