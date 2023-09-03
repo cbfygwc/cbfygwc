@@ -1,4 +1,4 @@
-### computer graphics for money 
+### digital art for money 
 ### cyber security for love
 
 <!--
