@@ -1,6 +1,8 @@
 ### 自带代码混淆功能
 ### I'm sorry for my worst code.
-###
+### 精通DCC软件"install" and "uninstall"
+### 熟悉C++,C#,Javascript,python,Lua的"hello world"
+### 懂点web security，reverse，pen-test，router
 <!--
 **cbfygwc/cbfygwc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
