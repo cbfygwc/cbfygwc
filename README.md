@@ -1,7 +1,6 @@
-###精通DCC软件安装与卸载
-###懂点web安全，逆向工程，渗透测试
-###自带代码混淆功能，熟悉C++,C#,Javascript,python,Lua,的hello, world
-
+###自带代码混淆功能
+###I'm sorry for my worst code.
+###
 <!--
 **cbfygwc/cbfygwc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
